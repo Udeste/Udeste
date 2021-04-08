@@ -4,6 +4,7 @@ My name is Umberto (betto for friends) and I' am a senior Front-end engineer wor
 I love programming and experimenting new things especially in the IoT field. I have a passion for micro-controllers and in my github page you can find some cool projects I'm working on.
 
 🚁 I'm a freestyle drone pilot. On my [YouTube channel](https://www.youtube.com/channel/UCeb5nCfx0H_i6tr8b162pKA) you can watch some of the amazing acrobatic flights I do time to time as my hobby.
+
 🌱 I’m currently learning *VueJS* and *GraphQL*
 
 🔭 I’m currently working on [IoT Board](https://github.com/users/Udeste/projects/5)
